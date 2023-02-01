@@ -36,3 +36,7 @@
     transform: rotate(360deg);
   }
 }
+
+.MainContent {
+  background: #282c34;
+}
